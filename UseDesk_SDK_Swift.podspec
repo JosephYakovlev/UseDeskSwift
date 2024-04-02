@@ -24,7 +24,6 @@ Pod::Spec.new do |s|
 	s.dependency 'Socket.IO-Client-Swift', '~> 16'
 	s.dependency 'Alamofire', '~> 5'
   s.dependency 'MarkdownKit'
-  s.dependency 'Texture'
   s.dependency 'ReachabilitySwift'
   s.dependency 'SwiftSoup'
   
